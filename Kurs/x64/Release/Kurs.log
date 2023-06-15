@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\shoka\source\repos\Kurs\dependencies\include\EvoNDZ\data\lazy.h(48,5): warning C4648: стандартный атрибут "no_unique_address" пропускается
+C:\Users\shoka\source\repos\Kurs\dependencies\include\EvoNDZ\data\lazy.h(51): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "evo::Lazy<T,TConstructor,TDestructor>"
+C:\Users\shoka\source\repos\Kurs\dependencies\include\EvoNDZ\data\lazy.h(49,5): warning C4648: стандартный атрибут "no_unique_address" пропускается
+C:\Users\shoka\source\repos\Kurs\Kurs\source\main.cpp(26,102): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\shoka\source\repos\Kurs\Kurs\source\main.cpp(137,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\shoka\source\repos\Kurs\Kurs\source\main.cpp(149,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода
+  87 of 3466 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    26 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+EvoNDZ.lib(renderer.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(renderer.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(plain_color_2d_batch.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(plain_color_2d_batch.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(application.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(application.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(input.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(input.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(index_buffer.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(index_buffer.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(technique.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(technique.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(vertex_array.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(vertex_array.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(vertex_buffer.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(vertex_buffer.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(imgui.obj) : warning LNK4099: "" PDB не найден с "EvoNDZ.lib(imgui.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(pch.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(pch.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(enum.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(enum.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(batch.obj) : warning LNK4099: "" PDB не найден с "EvoNDZ.lib(batch.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(state.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(state.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(window.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(window.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(index_type.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(index_type.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(parameters.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(parameters.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+EvoNDZ.lib(render_target.obj) : warning LNK4099: "EvoNDZ.pdb" PDB не найден с "EvoNDZ.lib(render_target.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\EvoNDZ.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+zGlad.lib(glad.obj) : warning LNK4099: "zGlad.pdb" PDB не найден с "zGlad.lib(glad.obj)" или на "C:\Users\shoka\source\repos\Kurs\x64\Release\zGlad.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Kurs.vcxproj -> C:\Users\shoka\source\repos\Kurs\x64\Release\Kurs.exe
